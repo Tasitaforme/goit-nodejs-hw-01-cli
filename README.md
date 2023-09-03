@@ -60,13 +60,3 @@ node index.js --action="update" --id rsKkOQUi80UsgVPCcLZZW --email alec.howard@N
 <img src="https://i.ibb.co/VmZTdLd/update2.png" alt="CLI update null" />
 </p>
 
-
-
-<!-- <img src="https://i.ibb.co/N67TS9S/add.png" alt="add" border="0">
-<img src="https://i.ibb.co/mb6X15j/get.png" alt="get" border="0">
-<img src="https://i.ibb.co/wdZ0bFd/get2.png" alt="get2" border="0">
-<img src="https://i.ibb.co/ngCPJBQ/list.png" alt="list" border="0">
-<img src="https://i.ibb.co/Wv22wk8/remove.png" alt="remove" border="0">
-<img src="https://i.ibb.co/Ldqhmwc/remove2.png" alt="remove2" border="0">
-<img src="https://i.ibb.co/G0sbr5n/update.png" alt="update" border="0">
-<img src="https://i.ibb.co/VmZTdLd/update2.png" alt="update2" border="0"> -->
